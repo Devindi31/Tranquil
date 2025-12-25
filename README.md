@@ -8,7 +8,7 @@ Tranquil is a full-featured hotel room booking application developed using Java 
 - 👤 **Customer Management :** Customer registration and management.
 - 🛏️ **Room Management :** Room booking and availability management.  
 - 💳 **Payment Management :** Secure payment handling.
-- 🧾 **Reports :** Report generation for booking, payment, and room reports using JasperReports.
+- 🧾 **Reports :** Report generation for customers details, employees details, room booking details, all payments and income reports using JasperReports.
 
 ## Technologies Used 🛠️
 
@@ -16,17 +16,23 @@ Tranquil is a full-featured hotel room booking application developed using Java 
 - **GUI Framework :** Java Swing  
 - **IDE :** NetBeans  
 - **Database :** MySQL  
-- **Database Tool :** HeidiSQL  
+- **Database Tool :** HeidiSQL, MySQL Workbench  
 - **Reports :** JasperReports  
 
-## Libraries & Dependencies 📦
+## Libraries 📦
 
-- MySQL Connector  
-- JasperReports  
-- FlatLaf (UI Styling)  
-- JCalendar  
-- Absolute Layout  
-- Commons Collections / Logging  
+- `commons-collections4-4.4.jar`
+- `commons-digester-2.1.jar`
+- `commons-logging-1.2.jar`
+- `openpdf-1.3.30.jar`
+- `swing-toast-notifications-1.0.3.jar`
+- `flatlaf-3.4.1.jar`
+- `flatlaf-extras-3.4.1.jar`
+- `jsvg-1.4.0.jar`
+- `Absolute Layout - AbsoluteLayout.jar`
+- `jcalendar-1.4.jar`
+- `mysql-connector-j-8.4.0.jar`
+- `jasperreports-6.20.5.jar`
 
 ## Setup & Run Instructions ⚙️
 
