@@ -1,6 +1,6 @@
 # Tranquil
 
-Tranquil is a full-featured Hotel Room Booking Application developed using Java (Swing). The system is designed to manage hotel operations efficiently, including room bookings and management, customer management, employee management, payments, and report generation. It provides a user-friendly desktop interface suitable for hotel administrators and staff.
+Tranquil is a full-featured hotel room booking application developed using Java (Swing). The system is designed to manage hotel operations efficiently, including room bookings and management, customer management, employee management, payments, and report generation. It provides a user-friendly desktop interface suitable for hotel administrators and staff.
 
 ##  Key Features 📌
 
