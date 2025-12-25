@@ -46,7 +46,7 @@ The goal of **Tranquil** is to provide a centralized and user-friendly hotel man
 <table align="center">
   <tr>
     <td align="center">
-      <img src="preview_images/Create New Account.png" width="400"><br>
+      <img src="preview_images/Loading.png" width="400"><br>
       <b>Loading Page</b>
     </td>
     <td align="center">
@@ -54,7 +54,7 @@ The goal of **Tranquil** is to provide a centralized and user-friendly hotel man
       <b>Sign In Page</b>
     </td>
     <td align="center">
-      <img src="preview_images/Home Side Bar.png" width="400"><br>
+      <img src="preview_images/Home.png" width="400"><br>
       <b>Home Page</b>
     </td>
   </tr>
