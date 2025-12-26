@@ -1,0 +1,18 @@
+Aug 16, 2024 10:58:16 AM gui.RoomBookingSection confirmPaymentButtonActionPerformed
+WARNING: java.lang.NumberFormatException: For input string: "f"
+Sep 17, 2024 4:29:50 PM gui.SignIn signInButtonActionPerformed
+WARNING: java.sql.SQLException: Column 'type' not found.
+Jul 01, 2025 9:04:50 PM gui.SignIn signInButtonActionPerformed
+WARNING: java.sql.SQLException: Column 'type' not found.
+Jul 01, 2025 9:04:59 PM gui.SignIn signInButtonActionPerformed
+WARNING: java.sql.SQLException: Column 'type' not found.
+Oct 05, 2025 12:11:47 AM gui.SignIn signInButtonActionPerformed
+WARNING: java.sql.SQLException: Column 'type' not found.
+Oct 05, 2025 12:11:52 AM gui.SignIn signInButtonActionPerformed
+WARNING: java.sql.SQLException: Column 'type' not found.
+Dec 25, 2025 2:08:57 PM gui.PaymentSection printColmpleteAllPaymentsButtonActionPerformed
+WARNING: java.text.ParseException: Unparseable date: "None"
+Dec 25, 2025 2:08:59 PM gui.PaymentSection printColmpleteAllPaymentsButtonActionPerformed
+WARNING: java.text.ParseException: Unparseable date: "None"
+Dec 26, 2025 12:15:31 AM gui.PaymentSection printColmpleteAllPaymentsButtonActionPerformed
+WARNING: java.text.ParseException: Unparseable date: "None"
